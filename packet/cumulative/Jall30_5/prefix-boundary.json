@@ -1,0 +1,157 @@
+{
+  "idle_R1": 15,
+  "length": 16,
+  "scheduled": [
+    {
+      "job": 2,
+      "mode": 2,
+      "start": 0
+    },
+    {
+      "job": 3,
+      "mode": 1,
+      "start": 0
+    },
+    {
+      "job": 4,
+      "mode": 1,
+      "start": 2
+    },
+    {
+      "job": 5,
+      "mode": 1,
+      "start": 6
+    },
+    {
+      "job": 6,
+      "mode": 1,
+      "start": 0
+    },
+    {
+      "job": 7,
+      "mode": 2,
+      "start": 6
+    },
+    {
+      "job": 8,
+      "mode": 1,
+      "start": 0
+    },
+    {
+      "job": 9,
+      "mode": 1,
+      "start": 1
+    },
+    {
+      "job": 10,
+      "mode": 3,
+      "start": 1
+    },
+    {
+      "job": 11,
+      "mode": 2,
+      "start": 8
+    },
+    {
+      "job": 12,
+      "mode": 1,
+      "start": 7
+    },
+    {
+      "job": 13,
+      "mode": 2,
+      "start": 11
+    },
+    {
+      "job": 14,
+      "mode": 1,
+      "start": 2
+    },
+    {
+      "job": 15,
+      "mode": 2,
+      "start": 4
+    },
+    {
+      "job": 16,
+      "mode": 1,
+      "start": 6
+    },
+    {
+      "job": 17,
+      "mode": 1,
+      "start": 0
+    },
+    {
+      "job": 18,
+      "mode": 1,
+      "start": 4
+    },
+    {
+      "job": 19,
+      "mode": 1,
+      "start": 3
+    },
+    {
+      "job": 22,
+      "mode": 1,
+      "start": 7
+    },
+    {
+      "job": 23,
+      "mode": 1,
+      "start": 10
+    },
+    {
+      "job": 24,
+      "mode": 3,
+      "start": 15
+    },
+    {
+      "job": 26,
+      "mode": 1,
+      "start": 15
+    },
+    {
+      "job": 27,
+      "mode": 2,
+      "start": 13
+    },
+    {
+      "job": 29,
+      "mode": 1,
+      "start": 1
+    },
+    {
+      "job": 30,
+      "mode": 1,
+      "start": 15
+    },
+    {
+      "job": 31,
+      "mode": 1,
+      "start": 11
+    },
+    {
+      "job": 33,
+      "mode": 1,
+      "start": 3
+    },
+    {
+      "job": 47,
+      "mode": 2,
+      "start": 11
+    },
+    {
+      "job": 48,
+      "mode": 2,
+      "start": 11
+    },
+    {
+      "job": 51,
+      "mode": 3,
+      "start": 13
+    }
+  ],
+  "schema": "original_mode_partial_prefix_v1"
+}

@@ -1,0 +1,56 @@
+{
+  "frozen_utc": "2026-10-07T21:50:35.755761+00:00",
+  "rows": 1423,
+  "families": {
+    "MM100": 33,
+    "MM50": 8,
+    "MMplus": 1382
+  },
+  "family_LB_increase": {
+    "MM100": 65,
+    "MM50": 9,
+    "MMplus": 9903
+  },
+  "sum_LB_increase": 9977,
+  "live_sources": {
+    "MM50": {
+      "url": "http://solutionsupdate.ugent.be/sites/default/files/datasets/MM50_4.csv",
+      "sha256": "a59e16701ebae77331eeb9ecd50a9d2245224134c1cb2e6e9c6494133123a69c",
+      "file": "comparators/MM50_4.csv",
+      "fetched_utc": "2026-10-07T21:50:35.755761+00:00"
+    },
+    "MM100": {
+      "url": "http://solutionsupdate.ugent.be/sites/default/files/datasets/MM100_4.csv",
+      "sha256": "d6afe0eb10d215490079f43a060f6fb31ede1e0d4bbea1e69fa7a7a7347f059f",
+      "file": "comparators/MM100_4.csv",
+      "fetched_utc": "2026-10-07T21:50:35.755761+00:00"
+    },
+    "MMplus": {
+      "url": "http://solutionsupdate.ugent.be/sites/default/files/datasets/MMplus_2.csv",
+      "sha256": "f76dbba5f90f1cef0072ed1c488235aa426233b96d80cb84c1d3ad2d60494e86",
+      "file": "comparators/MMplus_2.csv",
+      "fetched_utc": "2026-10-07T21:50:35.755761+00:00"
+    }
+  },
+  "supersedes": [
+    "sendable/040-certified-combined-bounds",
+    "sendable/038-certified-MM-bounds",
+    "sendable/039-certified-MMplus-bounds"
+  ],
+  "status": "complete original-input replay passed; not submitted or accepted",
+  "deadline": "unknown",
+  "main_acceptance_test": "recognised SolutionsUpdate table inclusion",
+  "score": "max valid integer LB per original instance minus max(live LB, v2.1 workbook LB)",
+  "proof_kinds": {
+    "certificate": 1013,
+    "mode_tree": 403,
+    "cumulative_prefix": 1,
+    "time_indexed_farkas": 1,
+    "rounding_tree": 2,
+    "CG_tree": 3
+  },
+  "worker_integration": "results/072-worker-cg-integration/claim.json",
+  "cumulative_integration": "results/078-cumulative-prefix-Jall30_5/claim.json",
+  "farkas_integration": "results/104-jall245-farkas/claim.json",
+  "release_integration": "results/105-release041-jall245-farkas/claim.json"
+}

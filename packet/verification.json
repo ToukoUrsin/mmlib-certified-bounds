@@ -1,0 +1,38 @@
+{
+  "checked_rows": 1423,
+  "families": {
+    "MM100": 33,
+    "MM50": 8,
+    "MMplus": 1382
+  },
+  "sum_LB_increase": 9977,
+  "family_LB_increase": {
+    "MM100": 65,
+    "MM50": 9,
+    "MMplus": 9903
+  },
+  "proof_kinds": {
+    "certificate": 1013,
+    "mode_tree": 403,
+    "cumulative_prefix": 1,
+    "time_indexed_farkas": 1,
+    "rounding_tree": 2,
+    "CG_tree": 3
+  },
+  "optimality_proofs": [
+    "J10011_4.mm",
+    "J10012_2.mm",
+    "J10012_3.mm",
+    "J10046_2.mm",
+    "J10046_5.mm",
+    "Jall30_3.mm",
+    "Jall30_5.mm",
+    "Jall245_3.mm",
+    "Jall353_2.mm",
+    "Jall354_1.mm",
+    "Jall434_2.mm"
+  ],
+  "negative_controls_rejected": 3663,
+  "seconds": 178.57051992794732,
+  "evidence_level": "original-input exact offline replay; not submitted or accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "concatenated_archive_sha256": "354d167b63569726159d2371278cf641f31e38e0761ec24ec9d95716257fa268",
+  "archive_bytes": 8948154,
+  "parts": [
+    {
+      "file": "verification-packet.tar.gz.part01",
+      "bytes": 3500000,
+      "sha256": "992da24417155b3d2729bab04518f5c4620fe20b6a3c3039910b3a0a58bd5294"
+    },
+    {
+      "file": "verification-packet.tar.gz.part02",
+      "bytes": 3500000,
+      "sha256": "ae5bc35490d7714a4f9890bc1febcd43f86c831e192f4030955df2c25709fcfd"
+    },
+    {
+      "file": "verification-packet.tar.gz.part03",
+      "bytes": 1948154,
+      "sha256": "4834467dac050374cb8b9861853820328bdda09962fdf62e6e9e6965ddcf9999"
+    }
+  ]
+}
